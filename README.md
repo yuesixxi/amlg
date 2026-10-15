@@ -10,7 +10,7 @@ This course was held at:
 
 Happy coding! 👩‍💻👨‍💻
 
-## How to Work With This Repository
+## How to work with this repository
 
 In this course, all exercises are provided as [Jupyter](https://jupyter.org) notebooks.
 
@@ -43,12 +43,14 @@ We recommend using [Visual Studio Code](https://code.visualstudio.com) and the p
 
 We recommend using the [GWDG Jupyter Cloud](https://jupyter-cloud.gwdg.de).
 Here, in addition to the terminal, you can use the graphical user interface to clone the repository.
+Alternatively, you can use any other online Jupyter server, such as [Google Colab](https://colab.research.google.com).
+
+### Step-by-step instructions (locally & online)
+
 For step-by-step instructions for both recommended environments, see the
 [student setup guide](docs/setup_guide.md).
 
-Alternatively, you can use any other online Jupyter server, such as [Google Colab](https://colab.research.google.com).
-
-## Data Availability
+## Data availability
 
 The data used are available via the [Harvard Dataverse](https://dataverse.harvard.edu) under the DOI [10.7910/DVN/ZSVS5X](https://doi.org/10.7910/DVN/ZSVS5X).
 A copy of the data is also hosted [here](https://seafile.cloud.uni-hannover.de/d/5d6029c6eaaf410c8b01/) via Seafile at Leibniz University Hannover.
